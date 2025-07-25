@@ -21,11 +21,12 @@ const iconStyles = {
   blue: '[--icon-foreground:var(--color-slate-900)] [--icon-background:var(--color-white)]',
   amber:
     '[--icon-foreground:var(--color-amber-900)] [--icon-background:var(--color-amber-100)]',
+  teal: '[--icon-foreground:var(--color-slate-900)] [--icon-background:var(--color-white)]',
 }
 
 export function Icon({
   icon,
-  color = 'blue',
+  color = 'teal',
   className,
   ...props
 }: {
@@ -58,10 +59,15 @@ const gradients = {
     { stopColor: '#FDE68A', offset: '.08' },
     { stopColor: '#F59E0B', offset: '.837' },
   ],
+  teal: [
+    { stopColor: '#FEFCE8', },
+    { stopColor: '#2DD4BF', offset: '.527' },
+    { stopColor: '#FEF08A', offset: 1 },
+  ],
 }
 
 export function Gradient({
-  color = 'blue',
+  color = 'teal',
   ...props
 }: {
   color?: keyof typeof gradients

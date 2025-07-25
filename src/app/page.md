@@ -1,18 +1,20 @@
 ---
-title: Getting started
+title: Varaka Protocol - Getting Started
 ---
 
 Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Was ist Varaka?" icon="lightbulb" href="/intro" description="Grundlegende Konzepte und Ziele des Varaka Protocols." /%}
 
-{% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Technische Architektur" icon="presets" href="/architecture" description="Wie das Varaka Protocol aufgebaut ist." /%}
 
-{% quick-link title="Plugins" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Smart Contracts & APIs" icon="plugins" href="/contracts" description="Details zu Smart Contracts, Schnittstellen und Integrationen." /%}
 
-{% quick-link title="API reference" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Developer Guide" icon="installation" href="/developer" description="Setup-Anleitung und SDKs für Entwickler." /%}
+
+{% quick-link title="Governance & Tokenomics" icon="theming" href="/governance" description="Regeln, Gebühren und Verteilung im Varaka-Netzwerk." /%}
 
 {% /quick-links %}
 
@@ -20,44 +22,18 @@ Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit per
 
 ---
 
-## Quick start
+## Quick Start
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Willkommen beim Varaka Protocol. Dieses Protokoll definiert faire, dezentrale Regeln für die Zusammenarbeit von KMUs, Beratern und Entwicklern.
+Hier erfährst du, wie du schnell loslegen kannst.
 
-### Installing dependencies
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+### Installation / Setup
 
 ```shell
-npm install @tailwindlabs/cache-advance
+npm install @varaka/sdk
 ```
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout type="warning" title="Oh no! Something bad happened!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-{% /callout %}
-
-### Configuring the library
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-```js
-// cache-advance.config.js
-export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
-  },
-}
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="You should know!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-{% /callout %}
+Mit diesem Befehl installierst du das Varaka SDK und kannst sofort beginnen, die API zu verwenden, um dein Projekt an das Varaka-Netzwerk anzubinden.
 
 ---
 
