@@ -24,10 +24,10 @@ const lexend = localFont({
 export const metadata: Metadata = {
   title: {
     template: '%s - Docs',
-    default: 'CacheAdvance - Never miss the cache again.',
+    default: 'Varaka - Distributed Entrepreneurship',
   },
   description:
-    'Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.',
+    'Eine Plattform für dezentrale und faire Zusammenarbeit, die KMUs in das KI-Zeitalter führt.',
 }
 
 export default function RootLayout({

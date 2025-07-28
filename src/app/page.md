@@ -2,25 +2,28 @@
 title: Varaka Protocol - Getting Started
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Willkommen beim Varaka Protocol. Dieses Protokoll definiert faire, dezentrale Regeln für die Zusammenarbeit von KMUs, Beratern und Entwicklern.
+Hier erfährst du, wie du schnell loslegen kannst. {% .lead %}
 
 {% quick-links %}
 
 {% quick-link title="Was ist Varaka?" icon="lightbulb" href="/intro" description="Grundlegende Konzepte und Ziele des Varaka Protocols." /%}
 
-{% quick-link title="Technische Architektur" icon="presets" href="/architecture" description="Wie das Varaka Protocol aufgebaut ist." /%}
+<!-- {% quick-link title="Technische Architektur" icon="presets" href="/architecture" description="Wie das Varaka Protocol aufgebaut ist." /%}
 
 {% quick-link title="Smart Contracts & APIs" icon="plugins" href="/contracts" description="Details zu Smart Contracts, Schnittstellen und Integrationen." /%}
 
 {% quick-link title="Developer Guide" icon="installation" href="/developer" description="Setup-Anleitung und SDKs für Entwickler." /%}
 
-{% quick-link title="Governance & Tokenomics" icon="theming" href="/governance" description="Regeln, Gebühren und Verteilung im Varaka-Netzwerk." /%}
+{% quick-link title="Governance & Tokenomics" icon="theming" href="/governance" description="Regeln, Gebühren und Verteilung im Varaka-Netzwerk." /%} -->
 
 {% /quick-links %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste.
+<!-- 
 
 ---
+
+TODO
 
 ## Quick Start
 
@@ -85,4 +88,4 @@ Praesentium facilis iste aliquid quo quia a excepturi. Fuga reprehenderit illo s
 
 Eum et ut. Qui facilis est ipsa. Non facere quia sequi commodi autem. Dicta autem sit sequi omnis impedit. Eligendi amet dolorum magnam repudiandae in a.
 
-Molestiae iusto ut exercitationem dolorem unde iusto tempora atque nihil. Voluptatem velit facere laboriosam nobis ea. Consequatur rerum velit ipsum ipsam. Et qui saepe consequatur minima laborum tempore voluptatum et. Quia eveniet eaque sequi consequatur nihil eos.
+Molestiae iusto ut exercitationem dolorem unde iusto tempora atque nihil. Voluptatem velit facere laboriosam nobis ea. Consequatur rerum velit ipsum ipsam. Et qui saepe consequatur minima laborum tempore voluptatum et. Quia eveniet eaque sequi consequatur nihil eos. -->
