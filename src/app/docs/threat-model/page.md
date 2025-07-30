@@ -28,7 +28,7 @@ Dieses Dokument analysiert potenzielle Gefahren und Worst-Case-Angriffe für das
 
 ---
 
-### Philipp Maderthaners KMU-Community
+### KMU-Community
 
 #### Worst-Case-Angriffe
 

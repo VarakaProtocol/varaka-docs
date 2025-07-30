@@ -50,7 +50,7 @@ Die Kunden profitieren von KI-gestützten Dienstleistungen und Lösungen, die du
 - Nutzung der bereitgestellten KI-Agenten
 - Feedback zu Services und Qualität
 
-### 3.2 Philipp Maderthaner mit seiner KMU-Community
+### 3.2 KMU-Community
 
 Ein loyaler Kreis von unternehmerischen, innovationsfreudigen KMUs, die als Anwendungs- und Absatzmarkt fungieren.
 

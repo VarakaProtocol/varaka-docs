@@ -9,7 +9,7 @@ nextjs:
 ## Agent Protocoll
 
 - How can you "host" or run an agent?
-- Do we enable locally hosted agents?
+- Do we enable locally hosted agents? Custom Build Agents?
 
 ## Usage
 
@@ -23,7 +23,6 @@ nextjs:
   - every transaction
   - by staking
   - own cryptocurrency
-
 
 ## Price-Model
 
