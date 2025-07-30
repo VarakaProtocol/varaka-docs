@@ -12,7 +12,7 @@ Eine Plattform für dezentrale und faire Zusammenarbeit, die KMUs in das KI-Zeit
 
 Die Digitalisierung der Wirtschaft hat nicht nur neue Technologien hervorgebracht, sondern auch die Art und Weise, wie Menschen zusammenarbeiten, grundlegend verändert. Während große Tech-Plattformen Arbeitsprozesse standardisieren und zentralisieren, bleibt ein zentrales Problem ungelöst: **Wie können hochqualifizierte Einzelunternehmer, Entwickler und Berater fair und effizient zusammenarbeiten, ohne sich unter eine Firmenstruktur zu zwingen?**
 
-Die Antwort ist ein **Universum für dezentrale und faire Zusammenarbeit** (Name noch festzulegen), aufgebaut auf dem **Varaka-Protokoll**: ein dezentral organisiertes Netzwerk, das unabhängige Akteure mit KMUs verbindet, durch Blockchain-Technologie für Vertrauen, Transparenz und faire Beteiligung sorgt und damit die AI-isierung von KMUs aktiv vorantreibt.
+Die Antwort ist ein **Universum für dezentrale und faire Zusammenarbeit**, aufgebaut auf dem **Varaka-Protokoll**: ein dezentral organisiertes Netzwerk, das unabhängige Akteure mit KMUs verbindet, durch Blockchain-Technologie für Vertrauen, Transparenz und faire Beteiligung sorgt und damit die AI-isierung von KMUs aktiv vorantreibt.
 
 ---
 

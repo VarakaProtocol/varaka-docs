@@ -13,4 +13,10 @@ export const navigation = [
       { title: 'Threat Model', href: '/docs/threat-model' },
     ],
   },
+  {
+    title: 'The road to Varaka',
+    links: [
+      { title: 'Open Questions', href: '/docs/open-questions' },
+    ],
+  },
 ]

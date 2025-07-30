@@ -2,12 +2,44 @@
 title: Varaka Protocol - Getting Started
 ---
 
-Willkommen beim Varaka Protocol. Dieses Protokoll definiert faire, dezentrale Regeln für die Zusammenarbeit von KMUs, Beratern und Entwicklern.
-Hier erfährst du, wie du schnell loslegen kannst. {% .lead %}
+Willkommen beim Varaka Protocol. Dieses Protokoll definiert faire, dezentrale Regeln für die Zusammenarbeit von KMUs, Beratern und Entwicklern.{% .lead %}
+
+## Was ist Varaka?
+
+Varaka ist ein Protokoll und Plattformsystem, das eine faire, dezentrale Zusammenarbeit zwischen vier Akteursgruppen ermöglicht:
+
+- **KMUs**: nutzen skalierbare KI-Agenten zur Automatisierung und Effizienzsteigerung.
+- **Berater**: transformieren ihr Know-how in standardisierte Agenten und verdienen an deren Nutzung mit.
+- **Entwickler**: bauen die Agenten und erhalten automatisierte, nutzungsbasierte Vergütung.
+- **Initiatoren**: stellen die Infrastruktur (Protokoll, Zugangssystem) und verdienen an jedem fair abgewickelten Use-Case.
+
+## Zentrales Versprechen
+
+Jede Interaktion ist vergütungspflichtig, fälschungssicher und dezentral über Smart Contracts geregelt – jede Partei verdient automatisch mit, abhängig vom tatsächlichen Beitrag.
+
+## Systemstruktur
+
+- **Varaka-Protokoll**: definiert Rollen, Zahlungen, Identitäten und Interaktionen auf technischer Ebene.
+
+- **Zentrales Zugangssystem**: stellt sicher, dass Interaktionen nicht „off-chain“ oder gebührenfrei stattfinden können.
+
+## Key Innovation vs. klassische Plattformen
+
+- Kein Plattformmonopol – sondern ein **orchestriertes Ökosystem**
+- **Pay-per-use** durch Smart Contracts, nicht Abo-/Lizenzmodelle
+- Transparente, nachvollziehbare Beteiligung durch Tokenisierung von IP, Usage und Reputation
+
+## Geschäftsmodell
+
+Gebühren auf jeder Interaktion im Netzwerk, verteilt an alle Beteiligten – vergleichbar mit einem dezentralen Upwork für KI-gestützte B2B-Services.
+
+## Wirtschaftlicher Hebel
+
+Ein funktionierendes, sich selbst tragendes System, in dem technologische Leistung, Wissen und Nachfrage automatisiert, transparent und gerecht verbunden werden – ohne zentrale Plattform- oder Beratungsgesellschaft.
 
 {% quick-links %}
 
-{% quick-link title="Was ist Varaka?" icon="lightbulb" href="/intro" description="Grundlegende Konzepte und Ziele des Varaka Protocols." /%}
+{% quick-link title="Unser Whitepaper" icon="lightbulb" href="/docs/whitepaper" description="Grundlegende Konzepte und Ziele des Varaka Protocols." /%}
 
 <!-- {% quick-link title="Technische Architektur" icon="presets" href="/architecture" description="Wie das Varaka Protocol aufgebaut ist." /%}
 
