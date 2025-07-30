@@ -6,7 +6,7 @@ nextjs:
     description: Analyse der Sicherheitsrisiken und geeigneter Gegenmaßnahmen für das Varaka-Ökosystem.
 ---
 
-Dieses Dokument analysiert potenzielle Gefahren und Worst-Case-Angriffe für das Varaka-Ökosystem. Ziel ist es, die Sicherheitsrisiken je Akteur zu identifizieren und geeignete Gegenmaßnahmen zu entwerfen, um Missbrauch zu verhindern. {% .lead %}˝
+Dieses Dokument analysiert potenzielle Gefahren und Worst-Case-Angriffe für das Varaka-Ökosystem. Ziel ist es, die Sicherheitsrisiken je Akteur zu identifizieren und geeignete Gegenmaßnahmen zu entwerfen, um Missbrauch zu verhindern. {% .lead %}
 
 
 ## Beurteilung je Akteur
