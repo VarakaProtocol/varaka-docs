@@ -11,6 +11,7 @@ export const navigation = [
     links: [
       { title: 'Whitepaper', href: '/docs/whitepaper' },
       { title: 'Threat Model', href: '/docs/threat-model' },
+      { title: 'Anti-Disintermediation-Strategie', href: '/docs/disintermediation' },
     ],
   },
   {
