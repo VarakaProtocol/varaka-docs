@@ -129,7 +129,7 @@ Wir wollen kein Unternehmen bauen. Wir bauen eine **Infrastruktur für verteilte
 
 - **Varaka-Protokoll** als technisches Rückgrat für Identität, Zahlung, Logging und Reputation
 - **Smart Contracts** zur Definition von Beteiligungen und Erfolgskriterien
-- **Agent-Protokolle** zur sicheren Interaktion zwischen Akteuren und Agenten (inspiriert von Masumi/Sokosumi)
+- **Agent-Protokolle** zur sicheren Interaktion zwischen Akteuren und Agenten
 - **Pay-per-Use**-Mechanik für KMUs, mit transparenter Abrechnung und Schutz sensibler Daten
 
 ---
